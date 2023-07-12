@@ -1,4 +1,5 @@
 https://ads-static.conde.digital/production/cns/builds/wired/prebid.min.js
+https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
 https://assets.adobedtm.com/launch-EN3444602cf9d84e4db466bb03dbbace30.min.js
 https://b.sf-syn.com/badge_js?sf_id=3609966&variant_id=sf
 https://js.hs-analytics.net/analytics/1689165300000/21971743.js
@@ -6,11 +7,14 @@ https://js.hsadspixel.net/fb.js
 https://js.hscollectedforms.net/collectedforms.js
 https://mem.gfx.ms/meversion?partner=MSWindowsforBusiness&market=en-us&uhf=1
 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7225189860368578&host=ca-host-pub-5506057612223327
+https://platform-api.sharethis.com/js/sharethis.js
+https://script.tapfiliate.com/tapfiliate.js
 https://static.doubleclick.net/instream/ad_status.js
 https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js
 https://www.apple.com/metrics/ac-analytics/2.18.0/scripts/ac-analytics.js
 https://www.apple.com/metrics/ac-analytics/2.18.0/scripts/auto-init.js
 https://www.googletagmanager.com
+https://www.googletagmanager.com/gtm.js?id=GTM-W842DRQ
 https://www.googletagservices.com/tag/js/gpt.js
 https://www.google.com/js/th/CFvFRxUomQAyW1GPJHNEkK56m7mgxeT_n6tSkg-sd0M.js
 https://www.gstatic.com/cv/js/sender/v1/cast_sender.js
