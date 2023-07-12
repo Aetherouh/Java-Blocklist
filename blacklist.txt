@@ -2,6 +2,7 @@ https://ads-static.conde.digital/production/cns/builds/wired/prebid.min.js
 https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
 https://assets.adobedtm.com/launch-EN3444602cf9d84e4db466bb03dbbace30.min.js
 https://b.sf-syn.com/badge_js?sf_id=3609966&variant_id=sf
+https://cdn.jsdelivr.net
 https://js.hs-analytics.net/analytics/1689165300000/21971743.js
 https://js.hsadspixel.net/fb.js
 https://js.hscollectedforms.net/collectedforms.js
